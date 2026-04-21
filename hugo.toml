@@ -1,0 +1,15 @@
+baseURL = "https://你的用户名.github.io"
+languageCode = "zh-CN"
+title = "数据结构与算法笔记"
+theme = "book"
+
+[params]
+  # 开启自动生成的侧边栏菜单
+  bookMenuBundle = false # 如果是 false，它会去读 content 目录结构
+  bookSectionPagesMenu = true 
+  
+  # 侧边栏 UI 设置
+  bookTheme = "auto"
+  bookSearch = true
+  bookToc = true
+  bookCollapseSection = true
