@@ -1,3 +1,9 @@
+---
+title: "浮点数公式详解"
+bookCollapseSection: false  # true 为折叠，false 为展开
+weight: 10002                 # 控制在侧边栏的排序
+---
+
 豆包IEEE 754 单精度浮点数公式拆解
 
 ---

@@ -75,4 +75,4 @@ weight: 10001                 # 控制在侧边栏的排序
 
 ![float](float01.png)
 
-[浮点数计算公式详解](./float_formula.md)
+[浮点数计算公式详解](./float_formula/)
