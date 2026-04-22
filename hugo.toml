@@ -1,4 +1,4 @@
-baseURL = "https://TUSIDENG/algo-book.github.io"
+baseURL = "https://tusideng.github.io/algo-book"
 languageCode = "zh-CN"
 title = "数据结构与算法笔记"
 theme = "book"
